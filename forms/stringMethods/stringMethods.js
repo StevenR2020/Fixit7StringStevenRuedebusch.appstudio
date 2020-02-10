@@ -1,3 +1,3 @@
 let quoteString = "Failure is simply the opportunity to begin again this time more intelligently"
-variableUpper = quoteString.toUpperCase
+variableUpper = quoteString.toUpperCase()
 alert(`Upper case string is: ${variableUpper}`)
